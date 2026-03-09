@@ -1,0 +1,5 @@
+{
+  "name": "Animación de Series Matemáticas",
+  "description": "Visualización interactiva de la convergencia y divergencia de series matemáticas, enfocada en la serie armónica (1/n).",
+  "requestFramePermissions": []
+}
